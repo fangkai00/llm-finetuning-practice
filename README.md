@@ -1,10 +1,10 @@
 # LLM 模型微调实操（SFT · VLM · GRPO）
 
-![GitHub stars](https://img.shields.io/github/stars/你的用户名/llm-finetuning-practice?style=social)
-![GitHub forks](https://img.shields.io/github/forks/你的用户名/llm-finetuning-practice?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/你的用户名/llm-finetuning-practice?style=social)
-![GitHub issues](https://img.shields.io/github/issues/你的用户名/llm-finetuning-practice)
-![GitHub License](https://img.shields.io/github/license/你的用户名/llm-finetuning-practice)
+![GitHub stars](https://img.shields.io/github/stars/fangkai00/llm-finetuning-practice?style=social)
+![GitHub forks](https://img.shields.io/github/forks/fangkai00/llm-finetuning-practice?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/fangkai00/llm-finetuning-practice?style=social)
+![GitHub issues](https://img.shields.io/github/issues/fangkai00/llm-finetuning-practice)
+![GitHub License](https://img.shields.io/github/license/fangkai00/llm-finetuning-practice)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 
 基于 Qwen2.5 系列大模型，完整实践三种主流微调范式：**SFT 监督微调**、**VLM 视觉多模态微调**、**GRPO 强化学习**（含 DeepSeek-R1 式 SFT 预热两阶段训练）。
