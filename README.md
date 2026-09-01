@@ -1,4 +1,4 @@
-# LLM 模型微调实操（SFT · VLM · GRPO）
+# LLM 模型微调（SFT · VLM · GRPO）
 
 ![GitHub stars](https://img.shields.io/github/stars/fangkai00/llm-finetuning-practice?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/fangkai00/llm-finetuning-practice?style=social)
