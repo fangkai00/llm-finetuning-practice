@@ -1,0 +1,29 @@
+# 模型与大文件
+models/
+*.safetensors
+*.gguf
+*.bin
+
+# 训练产物（LoRA 权重，每个 >150MB）
+lora_model/
+car_insurance_lora_model/
+sft_warmup_lora/
+grpo_saved_lora/
+lora_model_test/
+outputs/
+outputs_test/
+sft_warmup_outputs/
+unsloth_compiled_cache/
+
+# 日志与临时文件
+*.log
+*.incomplete
+.pip_tmp/
+.triton/
+__pycache__/
+*.pyc
+
+# 最小化测试生成的中间数据
+alpaca_mini.json
+gsm8k_mini.parquet
+qwen-vl-train-mini.xlsx

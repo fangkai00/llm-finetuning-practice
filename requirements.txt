@@ -1,0 +1,19 @@
+# LLM 微调核心依赖（Python 3.12，CUDA 12.x/13.x）
+# 安装：pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+unsloth>=2026.8.19
+transformers==4.57.6
+trl==0.24.0
+datasets>=4.3.0
+peft
+huggingface_hub==0.36.2
+accelerate
+safetensors
+
+# 数据处理
+pandas
+openpyxl
+pillow
+
+# 下载加速（可选）
+hf_transfer
